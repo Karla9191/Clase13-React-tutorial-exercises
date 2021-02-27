@@ -3,8 +3,7 @@ import ReactDOM from "react-dom";
 
 //create your function here
 export const BootstrapCard = () => {
-    return
-    <div>
+    return (
         <div className="card m-5">
             <img className="card-img-top" src="https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/" alt="Card image cap" />
             <div className="card-body">
@@ -13,7 +12,7 @@ export const BootstrapCard = () => {
                 <a href="https://en.wikipedia.org/wiki/Bob_Dylan" className="btn btn-primary">Go to wikipedia</a>
             </div>
         </div>
-    </div>
+    )
 };
 //remember to use ReactDOM.render to include the component into the website
 ReactDOM.render(<BootstrapCard />, document.querySelector("#myDiv"));
