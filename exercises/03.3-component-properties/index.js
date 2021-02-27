@@ -6,10 +6,12 @@ const BootstrapCard = props => {
 	// 1) replace the hard-coded image, description, link, etc. With their property variable.
 	return (
 		<div className="card m-5">
-			<img className="card-img-top" src="https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/" alt="Card image cap" />
+            <img className="card-img-top" src="https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/"
+             alt="Card image cap" />
 			<div className="card-body">
 				<h5 className="card-title">{props.title}</h5>
-				<p className="card-text">Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter.</p>
+				<p className="card-text">Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) 
+                is an American singer-songwriter.</p>
 				<a href="https://en.wikipedia.org/wiki/Bob_Dylan" className="btn btn-primary">
 					Go to wikipedia
 				</a>
@@ -24,3 +26,6 @@ BootstrapCard.propTypes = {
 
 
 // 3) Use ReactDOM to add the component into then DOM element #myDiv
+
+
+//<div className="card" style={{ width: "16rem" }}>
