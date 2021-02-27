@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://amber-partridge-33l7bkzu.ws-us03.gitpod.io",
+    "address": "https://beige-jellyfish-79bosbi3.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -168,7 +168,7 @@
         {
             "slug": "03.3-component-properties",
             "title": "03.3-component-properties",
-            "done": false,
+            "done": true,
             "path": "exercises/03.3-component-properties",
             "translations": [
                 "es",
@@ -179,7 +179,7 @@
         {
             "slug": "03.4-jumbotron",
             "title": "03.4-jumbotron",
-            "done": false,
+            "done": true,
             "path": "exercises/03.4-jumbotron",
             "translations": [
                 "es",
@@ -190,7 +190,7 @@
         {
             "slug": "03.5-alert-component",
             "title": "03.5-alert-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.5-alert-component",
             "translations": [
                 "es",
@@ -201,7 +201,7 @@
         {
             "slug": "04-conditional-rendering",
             "title": "04-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04-conditional-rendering",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "04.2-conditional-rendering-ii",
             "title": "04.2-conditional-rendering-ii",
-            "done": false,
+            "done": true,
             "path": "exercises/04.2-conditional-rendering-ii",
             "translations": [
                 "es",

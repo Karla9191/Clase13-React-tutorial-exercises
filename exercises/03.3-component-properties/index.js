@@ -27,12 +27,3 @@ BootstrapCard.propTyps = {
 ReactDOM.render(<BootstrapCard title="Bob Dylan" imageUrl={"https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/"}
 buttonLabel="Go to wikipedia" buttonURL={"https://en.wikipedia.org/wiki/Bob_Dylan"} description="Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter."/>,document.querySelector("#myDiv"));
 
-
-//"https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/"
-
-//Bob Dylan (born Robert Allen Zimmerman, May 24, 1941) 
-//is an American singer - songwriter.
-
-//"https://en.wikipedia.org/wiki/Bob_Dylan"
-//Go to wikipedia
-//<div className="card" style={{ width: "16rem" }}>
