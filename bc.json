@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://brown-elk-js40mh92.ws-us03.gitpod.io",
+    "address": "https://amber-partridge-33l7bkzu.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -113,7 +113,7 @@
         {
             "slug": "02.1-maping-array-objects-to-li",
             "title": "02.1-maping-array-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-maping-array-objects-to-li",
             "translations": [
                 "es",
@@ -124,7 +124,7 @@
         {
             "slug": "02.2-maping-array-of-objects-to-li",
             "title": "02.2-maping-array-of-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-maping-array-of-objects-to-li",
             "translations": [
                 "es",
